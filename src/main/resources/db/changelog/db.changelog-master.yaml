@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: db/changesets/01-vvsrs-tables.yaml
+
